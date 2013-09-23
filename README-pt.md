@@ -332,10 +332,10 @@ $result = PDO4You::execute($json);
 
 
 
-Requerimentos
+Dependências
 --------------------------------------------------
 
-PHP 5.3 ou superior
+PHP >= 5.3.2
 
 
 
@@ -350,6 +350,6 @@ Veja também a lista de [colaboradores](http://github.com/giovanniramos/PDO4YOU/
 Licença
 --------------------------------------------------
 
-Copyright (c) 2013 [Giovanni Ramos](http://github.com/giovanniramos)
+Copyright (c) 2010-2013 [Giovanni Ramos](http://github.com/giovanniramos)
 
 PDO4You é um software open-source licenciado sob a [MIT License](http://www.opensource.org/licenses/MIT) (MIT-LICENSE.txt)

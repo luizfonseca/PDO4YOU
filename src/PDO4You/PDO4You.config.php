@@ -12,7 +12,7 @@
  * 
  * */
 
-// Connection adapter defined in: settings.ini
+// Connection adapter defined in: PDO4You.settings.ini
 // Examples: test, mysql, maria, pgsql, pgsql.dev, pgsql.pro, vcap
 define('PDO4YOU_ADAPTER', getenv('SERVER_NAME') == 'localhost' ? 'test' : 'vcap');
 
